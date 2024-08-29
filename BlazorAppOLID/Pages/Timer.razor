@@ -1,0 +1,55 @@
+﻿@page "/Timer"
+
+<h3>Timer</h3>
+
+<div>
+    <p>Time Elapsed: @formattedTime</p>
+    <button @onclick="StartTimer" disabled="@isRunning">Start</button>
+    <button @onclick="StopTimer" disabled="!isRunning">Stop</button>
+    <button @onclick="ResetTimer">Reset</button>
+</div>
+
+@code {
+    private bool isRunning = false;
+    private TimeSpan elapsedTime = TimeSpan.Zero;
+    private DateTime startTime;
+    private string formattedTime => elapsedTime.ToString(@"hh\:mm\:ss");
+
+    private System.Threading.Timer timer;
+
+    private void StartTimer()
+    {
+        if (!isRunning)
+        {
+            startTime = DateTime.Now - elapsedTime;
+            timer = new System.Threading.Timer(UpdateTimer, null, 0, 1000);
+            isRunning = true;
+        }
+    }
+
+    private void StopTimer()
+    {
+        if (isRunning)
+        {
+            timer?.Change(Timeout.Infinite, Timeout.Infinite);
+            isRunning = false;
+        }
+    }
+
+    private void ResetTimer()
+    {
+        StopTimer();
+        elapsedTime = TimeSpan.Zero;
+    }
+
+    private void UpdateTimer(object state)
+    {
+        elapsedTime = DateTime.Now - startTime;
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        timer?.Dispose();
+    }
+}

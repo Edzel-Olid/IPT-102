@@ -1,0 +1,43 @@
+﻿@page "/Profile"
+
+<h3>My Profile</h3>
+
+<div class="profile">
+    <img src="https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-1/456772575_122102623526484372_7321427152740567554_n.jpg?stp=dst-jpg_s200x200&_nc_cat=102&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeGJyJ0RIani_H1c6X0TRCvfC48qvugPHGcLjyq-6A8cZ0U4jjgtMmOXSKRzv3WyV9ZrIoYxgbYtUZX5WbYQA_Bo&_nc_ohc=gwe_Ced5AiUQ7kNvgGkHmVv&_nc_ht=scontent.fcgy2-4.fna&oh=00_AYDyfe4PxOGTRXNr7YCLsIctnHHcCk-471eOW4N7v6YjdA&oe=66D5F898" alt="Profile Picture" class="profile-picture" />
+    <h4>@Name</h4>
+    <p><strong>Occupation:</strong> @Occupation</p>
+    <p><strong>Location:</strong> @Location</p>
+    <p><strong>Interests:</strong> @string.Join(", ", Interests)</p>
+    <p><strong>About Me:</strong> @AboutMe</p>
+</div>
+
+@code {
+    private string Name = "Edzel John Olid";
+    private string Occupation = "Student";
+    private string Location = "Philippines";
+    private List<string> Interests = new List<string> { "Programming", "Gaming (DOTA 2)", "Database Design", "Networking Concepts", "Reading" };
+    private string AboutMe = "I am passionate about coding, especially in C#. I enjoy learning new technologies and working on challenging projects.";
+}
+<style>
+    .profile {
+        text-align: center;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .profile-picture {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+    }
+
+    h4 {
+        margin-top: 10px;
+        font-size: 1.5rem;
+    }
+
+    p {
+        margin: 5px 0;
+        font-size: 1rem;
+    }
+</style>

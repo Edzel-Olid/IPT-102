@@ -1,0 +1,6 @@
+C:\Users\Personal Computer\source\repos\olidcompany\bin\Debug\olidcompany.dacpac
+C:\Users\Personal Computer\source\repos\olidcompany\bin\Debug\olidcompany.dll
+C:\Users\Personal Computer\source\repos\olidcompany\bin\Debug\olidcompany.pdb
+C:\Users\Personal Computer\source\repos\olidcompany\obj\Debug\olidcompany.sqlproj.AssemblyReference.cache
+C:\Users\Personal Computer\source\repos\olidcompany\obj\Debug\olidcompany.dll
+C:\Users\Personal Computer\source\repos\olidcompany\obj\Debug\olidcompany.pdb

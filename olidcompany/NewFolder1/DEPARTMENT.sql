@@ -1,0 +1,8 @@
+﻿CREATE TABLE DEPARTMENT
+(
+    Dname VARCHAR(15) NOT NULL UNIQUE,
+    Dnumber INT NOT NULL PRIMARY KEY,
+    Mgr_ssn CHAR(9) NOT NULL,
+    Mgr_start_date DATE NULL,
+    FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn)
+);

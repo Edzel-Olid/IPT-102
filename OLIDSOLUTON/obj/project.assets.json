@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Personal Computer\\source\\repos\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
+      "projectUniqueName": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
       "projectName": "OLIDSOLUTON",
-      "projectPath": "C:\\Users\\Personal Computer\\source\\repos\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
+      "projectPath": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
       "packagesPath": "C:\\Users\\Personal Computer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Personal Computer\\source\\repos\\OLIDSOLUTON\\obj\\",
+      "outputPath": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OLIDSOLUTON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+545caa3b640beda7cf400f6c5ae89a01f2c7aeff")]
 [assembly: System.Reflection.AssemblyProductAttribute("OLIDSOLUTON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OLIDSOLUTON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

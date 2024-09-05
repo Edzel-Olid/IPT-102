@@ -29,3 +29,67 @@ C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\refint\OLID
 C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.pdb
 C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
 C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\appsettings.Development.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\appsettings.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.exe
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.dll
+C:\New folder (5)\IPT-102\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.pdb
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.csproj.AssemblyReference.cache
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.pack.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.build.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.development.json
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.dll
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.pdb
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+C:\New folder (5)\IPT-102\OLIDSOLUTON\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\appsettings.Development.json
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\appsettings.json
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.exe
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.dll
+F:\IPT\IPTTRY\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.pdb
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.sourcelink.json
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.build.json
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.development.json
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.pack.json
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.dll
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.pdb
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+F:\IPT\IPTTRY\OLIDSOLUTON\obj\Debug\net6.0\ref\OLIDSOLUTON.dll

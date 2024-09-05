@@ -9,71 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OLIDSOLUTON
 build_property.RootNamespace = OLIDSOLUTON
-build_property.ProjectDir = C:\Users\Personal Computer\source\repos\OLIDSOLUTON\
+build_property.ProjectDir = F:\IPT\IPTTRY\OLIDSOLUTON\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Personal Computer\source\repos\OLIDSOLUTON
+build_property.MSBuildProjectDirectory = F:\IPT\IPTTRY\OLIDSOLUTON
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/App.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Calculator.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Calculator.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Counter.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Index.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Music.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Music.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Profile.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Video.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Video.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Weather.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Shared/SurveyPrompt.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/_Imports.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Shared/MainLayout.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-x22ywj7wwb
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Shared/NavMenu.razor]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ehvsqyrfay
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/Error.cshtml]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/_Host.cshtml]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Personal Computer/source/repos/OLIDSOLUTON/Pages/_Layout.cshtml]
+[F:/IPT/IPTTRY/OLIDSOLUTON/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

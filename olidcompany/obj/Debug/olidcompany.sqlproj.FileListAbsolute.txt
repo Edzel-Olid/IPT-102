@@ -4,3 +4,11 @@ C:\Users\Personal Computer\source\repos\olidcompany\bin\Debug\olidcompany.pdb
 C:\Users\Personal Computer\source\repos\olidcompany\obj\Debug\olidcompany.sqlproj.AssemblyReference.cache
 C:\Users\Personal Computer\source\repos\olidcompany\obj\Debug\olidcompany.dll
 C:\Users\Personal Computer\source\repos\olidcompany\obj\Debug\olidcompany.pdb
+G:\Repos\repos\olidcompany\bin\Debug\olidcompany.dacpac
+G:\Repos\repos\olidcompany\obj\Debug\olidcompany.sqlproj.AssemblyReference.cache
+G:\Repos\repos\olidcompany\obj\Debug\Model.xml
+G:\Repos\repos\olidcompany\obj\Debug\refactor.xml
+G:\Repos\repos\olidcompany\obj\Debug\postdeploy.sql
+G:\Repos\repos\olidcompany\obj\Debug\predeploy.sql
+G:\Repos\repos\olidcompany\obj\Debug\olidcompany.dll
+G:\Repos\repos\olidcompany\obj\Debug\olidcompany.pdb

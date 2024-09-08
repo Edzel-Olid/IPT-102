@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ealzcb9n+HlTwUNvzUFBalIT3bv9+HX5HLhRzzE6pk4=",
+  "Hash": "PSLSDqbzDvl7sU6g6OX7ZuWlIMnEVAzGYtJkj4AS1os=",
   "Source": "OLIDSOLUTON",
   "BasePath": "_content/OLIDSOLUTON",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "OLIDSOLUTON\\wwwroot",
       "Source": "OLIDSOLUTON",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\bundle\\OLIDSOLUTON.styles.css",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\bundle\\OLIDSOLUTON.styles.css",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "OLIDSOLUTON.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\bundle\\OLIDSOLUTON.styles.css"
+      "OriginalItemSpec": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\bundle\\OLIDSOLUTON.styles.css"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OLIDSOLUTON.bundle.scp.css",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OLIDSOLUTON.bundle.scp.css",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "OLIDSOLUTON.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OLIDSOLUTON.bundle.scp.css"
+      "OriginalItemSpec": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OLIDSOLUTON.bundle.scp.css"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\css\\site.css",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\css\\site.css",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\favicon.ico",
+      "Identity": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\favicon.ico",
       "SourceId": "OLIDSOLUTON",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\wwwroot\\",
+      "ContentRoot": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\wwwroot\\",
       "BasePath": "_content/OLIDSOLUTON",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

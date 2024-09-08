@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\OLIDSOLUTON.csproj": {}
+    "G:\\Repos\\IPT-102\\OLIDSOLUTON\\OLIDSOLUTON.csproj": {}
   },
   "projects": {
-    "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\OLIDSOLUTON.csproj": {
+    "G:\\Repos\\IPT-102\\OLIDSOLUTON\\OLIDSOLUTON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
+        "projectUniqueName": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
         "projectName": "OLIDSOLUTON",
-        "projectPath": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
+        "projectPath": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\OLIDSOLUTON.csproj",
         "packagesPath": "C:\\Users\\Personal Computer\\.nuget\\packages\\",
-        "outputPath": "F:\\IPT\\IPTTRY\\OLIDSOLUTON\\obj\\",
+        "outputPath": "G:\\Repos\\IPT-102\\OLIDSOLUTON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

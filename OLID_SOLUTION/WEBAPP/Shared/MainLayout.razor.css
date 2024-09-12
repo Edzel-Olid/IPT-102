@@ -2,7 +2,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-   full-background-color: rgb(5, 39, 103);
+   
 }
 
 main {
@@ -10,7 +10,7 @@ main {
 }
 
 .sidebar {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #00ffff 70%);
+    background-image: rgb(0,0,0,0.5);
 }
 
 .top-row {
@@ -49,6 +49,7 @@ main {
 @media (min-width: 641px) {
     .page {
         flex-direction: row;
+        
     }
 
     .sidebar {
@@ -56,6 +57,7 @@ main {
         height: 100vh;
         position: sticky;
         top: 0;
+        bottom:inherit 0;
     }
 
     .top-row {
@@ -74,11 +76,11 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background-color: rgb(5, 39, 103);
+    background-color: black;
 }
 
 .navbar {
-    border-bottom: 1px solid #BBBBB;
+    border-bottom: 1px solid white;
 }
 
 .nav-link {
@@ -86,7 +88,7 @@ body {
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
-    color: rgb(5, 39, 103);
+    color: white;
     padding: 20px 0px;
     margin: 0px 20px;
     display: inline-block;
@@ -95,7 +97,7 @@ body {
 }
 
     .nav-link:hover {
-        opacity: 1;
+        opacity: 2;
     }
 
     .nav-link::before {
@@ -103,7 +105,7 @@ body {
         height: 5px;
         content: "";
         position: absolute;
-        background-color: #031D44;
+        background-color: whitesmoke;
     }
 
 .nav-link-ltr::before {
@@ -135,11 +137,6 @@ body {
 .nav-link-grow-up:hover::before {
     height: 5px;
 }
-
-
-
-
-
 .page-wrapper {
     position: relative;
     bottom: 0;
@@ -153,11 +150,11 @@ footer p, footer strong, footer b, footer {
 }
 
 .footer-top {
-    background: #303030;
+    background: rgba(255,255,255, 0.04);
     background-size: cover;
     background-position: center;
-    padding: 0 0 20px;
-    font-family: rubik;
+    
+   
     padding-top: 30px;
 }
 
@@ -292,7 +289,7 @@ a.socials-item {
 }
 
 .twitter {
-    color: #00aced;
+    color: rgba(84, 1, 74, 0.7);
 }
 
 .instagram {
@@ -523,7 +520,7 @@ footer .widget ul {
 
 
 #waterdrop {
-    height: 30px;
+    height: 0px;
 }
 
     #waterdrop canvas {

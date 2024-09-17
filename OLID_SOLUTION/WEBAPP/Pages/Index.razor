@@ -9,22 +9,41 @@
     Dear Visitor,
 
     Welcome to my new website! I'm thrilled to have you here.<br><br>
-
-
-
-    This space was created with you in mind, and I hope you find it both informative and engaging. Whether you're here to explore, learn, or simply browse, I’m confident you’ll find something of interest.<br><br>
-
-
-
+    This space was created with you in mind, and I hope you find it both informative and engaging. <br><br>
+    Whether you're here to explore, learn, or simply browse, I’m confident you’ll find something of interest.<br><br>
     Thank you for stopping by, and I look forward to connecting with you!<br><br>
-
-
-
     Best regards,<br><br>
 
+    Edzel John Olid
 
-    Edzel John Olid<br><br>
+    <br><br>
 </h2>
+
+<div>
+    <button @onclick="NavigateToCalculator" class="index-button-container">Calculator</button>
+    <button @onclick="NavigateToWeather" class="index-button-container">Weather</button>
+    <button @onclick="NavigateToFlower" class="index-button-container">Flower Animation</button>
+</div>
+
+@code {
+    private void NavigateToCalculator()
+    {
+        NavigationManager.NavigateTo("/calculator");
+    }
+
+    private void NavigateToWeather()
+    {
+        NavigationManager.NavigateTo("/weather");
+    }
+
+    private void NavigateToFlower()
+    {
+        NavigationManager.NavigateTo("/counter");
+    }
+
+    [Inject]
+    private NavigationManager NavigationManager { get; set; }
+}
 
 
 <style>
@@ -39,13 +58,15 @@
         font-size: 3rem;
         color: white;
     }
+
     index {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid rgb(5, 39, 103);
-    justify-content: flex-end;
-    height: 3.5rem;
-    display: flex;
-    align-items: center;
-}
+        background-color: #f7f7f7;
+        border-bottom: 1px solid rgb(5, 39, 103);
+        justify-content: flex-end;
+        height: 3.5rem;
+        display: flex;
+        align-items: center;
+    }
+
 </style>
 

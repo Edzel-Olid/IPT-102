@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
+      "projectUniqueName": "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
       "projectName": "OLIDSOLUTON",
-      "projectPath": "G:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
+      "projectPath": "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
       "packagesPath": "C:\\Users\\Personal Computer\\.nuget\\packages\\",
-      "outputPath": "G:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\",
+      "outputPath": "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

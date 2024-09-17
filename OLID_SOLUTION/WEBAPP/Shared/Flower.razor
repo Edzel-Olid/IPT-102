@@ -1,0 +1,10 @@
+﻿@inject HttpClient Http
+
+@code {
+    private string jsonFlower;
+
+    protected override async Task OnInitializedAsync()
+    {
+        jsonFlower = await Http.GetStringAsync("Flower/Flower.json");
+    }
+}

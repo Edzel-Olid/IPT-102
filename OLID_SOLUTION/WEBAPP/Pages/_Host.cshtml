@@ -1,9 +1,21 @@
 ﻿@page "/"
 @namespace OLIDSOLUTON.Pages
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@inject HttpClient Http
 @{
+
     Layout = "_Layout";
+
+    <head>
+        <script src="~/js/flower.js"></script>
+        <link href="css/Flower/flower.css" rel="stylesheet" />
+        <script src="js/flower.js"></script>
+        <component type="typeof(App)" render-mode="ServerPrerendered" />
+
+    </head>        
 }
 
-<component type="typeof(App)" render-mode="ServerPrerendered" />
+
+
+
 

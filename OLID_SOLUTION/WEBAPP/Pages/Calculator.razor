@@ -1,42 +1,92 @@
-﻿@page "/calculator"
+﻿@page "/Calculator"
 
-<h3>Basic Calculator</h3>
+<div class="calculator">
+    <div class="input-group">
+        <label>Enter Number</label>
+        <input @bind="firstNumber" type="number" class="input-field" />
 
-<div>
-    <label>First Number:</label>
-    <input @bind="firstNumber" type="number" />
+        <label>Enter Number</label>
+        <input @bind="secondNumber" type="number" class="input-field" />
+    </div>
 
-    <label>Second Number:</label>
-    <input @bind="secondNumber" type="number" />
+    <div class="button-group">
+        <button @onclick="PerformAddition" class="calc-button">➕</button>
+        <button @onclick="PerformSubtraction" class="calc-button">➖</button>
+        <button @onclick="PerformMultiplication" class="calc-button">✖</button>
+        <button @onclick="PerformDivision" class="calc-button">➗</button>
+    </div>
+
+    <h4>  @result</h4>
+
+    <br><br>
+
+    @if (isAddition)
+    {
+        <h5> I MISS YOU ❤️ </h5>
+    }
+    @if (isSubtraction)
+    {
+        <h5> I MISS YOU SO MUCH 🥺 </h5>
+    }
+    @if (isMultiplication)
+    {
+        <h5> I MISS YOU EVERYDAY 😭 </h5>
+    }
+    @if (isDivision)
+    {
+        <h5> I MISS YOU  😞 </h5>
+    }
+
+    <style>
+        h5 {
+            background-color: rebeccapurple;
+            flex: 1;
+            padding: 10px;
+            font-size: 1.2rem;
+            color: white;
+            border: none;
+            border-radius: inherit;
+            text-align: center;
+        }
+    </style>
 </div>
-
-<div>
-    <button @onclick="PerformAddition">+</button>
-    <button @onclick="PerformSubtraction">-</button>
-    <button @onclick="PerformMultiplication">*</button>
-    <button @onclick="PerformDivision">/</button>
-</div>
-
-<h4>Result: @result</h4>
 
 @code {
     private double firstNumber;
     private double secondNumber;
     private double result;
+    private bool isAddition = false;
+    private bool isSubtraction = false;
+    private bool isMultiplication = false;
+    private bool isDivision = false;
+
+    private void ResetFlags()
+    {
+        isAddition = false;
+        isSubtraction = false;
+        isMultiplication = false;
+        isDivision = false;
+    }
 
     private void PerformAddition()
     {
-       result = firstNumber + secondNumber ;
+        result = firstNumber + secondNumber;
+        ResetFlags();
+        isAddition = true;
     }
 
     private void PerformSubtraction()
     {
         result = firstNumber - secondNumber;
+        ResetFlags();
+        isSubtraction = true;
     }
 
     private void PerformMultiplication()
     {
         result = firstNumber * secondNumber;
+        ResetFlags();
+        isMultiplication = true;
     }
 
     private void PerformDivision()
@@ -49,5 +99,7 @@
         {
             result = double.NaN; // Not a Number if division by zero
         }
+        ResetFlags();
+        isDivision = true;
     }
 }

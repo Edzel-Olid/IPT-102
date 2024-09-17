@@ -6,4 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Pages\Calculator.razor.css" />
+    <None Remove="Pages\Counter.razor.css" />
+    <None Remove="Pages\Index.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Pages\Calculator.razor.css" />
+    <Content Include="Pages\Index.razor.css" />
+  </ItemGroup>
+
 </Project>

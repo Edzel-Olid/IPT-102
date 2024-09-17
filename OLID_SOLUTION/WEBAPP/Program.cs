@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using OLIDSOLUTON.Data;
 
+
 namespace OLIDSOLUTON
 {
     public class Program
@@ -14,7 +15,7 @@ namespace OLIDSOLUTON
             builder.Services.AddRazorPages();
             builder.Services.AddServerSideBlazor();
             builder.Services.AddSingleton<WeatherForecastService>();
-
+            builder.Services.AddHttpClient();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -33,7 +34,7 @@ namespace OLIDSOLUTON
 
             app.MapBlazorHub();
             app.MapFallbackToPage("/_Host");
-
+         
             app.Run();
         }
     }

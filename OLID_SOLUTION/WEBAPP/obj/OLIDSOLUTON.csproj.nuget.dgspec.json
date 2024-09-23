@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj": {}
+    "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj": {}
   },
   "projects": {
-    "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj": {
+    "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
+        "projectUniqueName": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
         "projectName": "OLIDSOLUTON",
-        "projectPath": "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
-        "packagesPath": "C:\\Users\\Personal Computer\\.nuget\\packages\\",
-        "outputPath": "G:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\",
+        "projectPath": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
+        "packagesPath": "C:\\Users\\LAB\\.nuget\\packages\\",
+        "outputPath": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Personal Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

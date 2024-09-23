@@ -1,5 +1,8 @@
 ﻿@page "/"
 
+@attribute [Authorize]
+
+
 <PageTitle>Index</PageTitle>
 
 
@@ -17,13 +20,14 @@
     Edzel John Olid
 
     <br><br>
+
+
 </h2>
 
 <div>
     <button @onclick="NavigateToCalculator" class="index-button-container">Calculator</button>
     <button @onclick="NavigateToWeather" class="index-button-container">Weather</button>
-    <button @onclick="NavigateToFlower" class="index-button-container">Flower Animation</button>
-</div>
+   </div>
 
 @code {
     private void NavigateToCalculator()
@@ -36,11 +40,7 @@
         NavigationManager.NavigateTo("/weather");
     }
 
-    private void NavigateToFlower()
-    {
-        NavigationManager.NavigateTo("/counter");
-    }
-
+ 
     [Inject]
     private NavigationManager NavigationManager { get; set; }
 }

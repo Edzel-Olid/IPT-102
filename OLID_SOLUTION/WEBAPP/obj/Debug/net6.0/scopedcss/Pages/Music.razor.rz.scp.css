@@ -1,0 +1,21 @@
+
+
+
+    .music-container[b-1vag60riiq] {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+    }
+    
+    .music-container h1[b-1vag60riiq] {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+    
+    .music-container iframe[b-1vag60riiq] {
+        width: 100%;
+        height: 352px;
+        border: none;
+    }

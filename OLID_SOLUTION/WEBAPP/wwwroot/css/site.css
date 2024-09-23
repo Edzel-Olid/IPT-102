@@ -3,7 +3,19 @@
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     background-color: black;
+
+
+
 }
+
+.content {
+    position: relative;
+    z-index: 1; /* Content stays on top */
+    color: white; /* Adjust text color */
+    text-align: center;
+}
+
+
 
 h1:focus {
     outline: none;
@@ -67,9 +79,13 @@ a, .btn-link {
 .my-custom-background {
     background-color: darkblue;
 }
+
 WeatherForecastService {
     color: white;
 }
+
 WeatherForecast {
     color: white;
 }
+
+

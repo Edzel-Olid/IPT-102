@@ -2,8 +2,7 @@
 
 <h3>My Profile</h3>
 <style>
-    h3 
-    {
+    h3 {
         color: white;
     }
 </style>
@@ -16,6 +15,8 @@
     <p><strong>Location:</strong> @Location</p>
     <p><strong>Interests:</strong> @string.Join(", ", Interests)</p>
     <q><strong>About Me:</strong> @AboutMe</q>
+    <br><br>
+    <button @onclick="NavigateToComponent" class="index-button-container">Portfolio</button>
 </div>
 
 @code {
@@ -24,6 +25,15 @@
     private string Location = "Philippines";
     private List<string> Interests = new List<string> { "Programming", "Gaming (DOTA 2)", "Database Design", "Networking Concepts", "Reading" };
     private string AboutMe = "I am passionate about coding, especially in C#. I enjoy learning new technologies and working on challenging projects.";
+
+    private void NavigateToComponent()
+    {
+        NavigationManager.NavigateTo("/component");
+    }
+
+
+    [Inject]
+    private NavigationManager NavigationManager { get; set; }
 }
 <style>
     .profile {
@@ -56,4 +66,53 @@
         font-size: 1rem;
         color: white;
     }
+
+    .index-button-container {
+        text-align: justify;
+        padding: 12px 24px;
+        font-size: 1.1rem;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        width: auto;
+        display: inline-block;
+    }
+
+    button {
+        text-align: justify;
+        padding: 12px 24px;
+        font-size: 1.1rem;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        width: auto;
+        display: inline-block;
+    }
+        /* Hover effect */
+        button:hover {
+            background-color: #218838;
+            transform: translateY(-3px); /* Makes the button rise slightly */
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Deepens the shadow on hover */
+        }
+
+        /* Active effect */
+        button:active {
+            background-color: #1e7e34;
+            transform: translateY(0); /* Returns button to normal position */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Lightens the shadow when clicked */
+        }
+
+        /* Focus effect */
+        button:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.5); /* Adds a green glow for accessibility */
+        }
 </style>

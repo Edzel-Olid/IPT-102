@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pages\Calculator.razor.css" />
+    <None Remove="Pages\Disclaimer.razor.css" />
+    <None Remove="Pages\Index.razor.css" />
+    <None Remove="Pages\Music.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Pages\Calculator.razor.css" />
+    <Content Include="Pages\Disclaimer.razor.css" />
+    <Content Include="Pages\Index.razor.css" />
+    <Content Include="Pages\Music.razor.css" />
+  </ItemGroup>
+
+</Project>

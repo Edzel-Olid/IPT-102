@@ -1,0 +1,242 @@
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\appsettings.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.exe
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.dll
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.pdb
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.dll
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.pdb
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+C:\Users\Personal Computer\source\repos\OLIDSOLUTON\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\appsettings.Development.json
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\appsettings.json
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.exe
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.dll
+G:\Repos\repos\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.pdb
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.build.json
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.development.json
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.dll
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.pdb
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+G:\Repos\repos\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Music.razor.rz.scp.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\appsettings.Development.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\appsettings.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.exe
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.dll
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.pdb
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.sourcelink.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.build.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.development.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.pack.json
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Music.razor.rz.scp.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.dll
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.pdb
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+G:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\appsettings.Development.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\appsettings.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.exe
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.dll
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\bin\Debug\net6.0\OLIDSOLUTON.pdb
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.sourcelink.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.build.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.development.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\staticwebassets.pack.json
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\Pages\Music.razor.rz.scp.css
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.dll
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.pdb
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+F:\OLID_SULOTION 1\IPT-102\OLID_SOLUTION\OLIDSOLUTON\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\appsettings.Development.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\appsettings.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.exe
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.dll
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.pdb
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.sourcelink.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.build.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.development.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.pack.json
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Music.razor.rz.scp.css
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.dll
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.pdb
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\appsettings.Development.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\appsettings.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.exe
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.dll
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.pdb
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.csproj.AssemblyReference.cache
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.build.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.development.json
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Music.razor.rz.scp.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.dll
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.pdb
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\appsettings.Development.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\appsettings.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.staticwebassets.runtime.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.exe
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.deps.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.runtimeconfig.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.dll
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\bin\Debug\net6.0\OLIDSOLUTON.pdb
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.GeneratedMSBuildEditorConfig.editorconfig
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfoInputs.cache
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.AssemblyInfo.cs
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.csproj.CoreCompileInputs.cache
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.MvcApplicationPartsAssemblyInfo.cache
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cache
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.RazorAssemblyInfo.cs
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.sourcelink.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.build.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.development.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.OLIDSOLUTON.Microsoft.AspNetCore.StaticWebAssets.props
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.build.OLIDSOLUTON.props
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OLIDSOLUTON.props
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OLIDSOLUTON.props
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\staticwebassets.pack.json
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Music.razor.rz.scp.css
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\bundle\OLIDSOLUTON.styles.css
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\projectbundle\OLIDSOLUTON.bundle.scp.css
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.dll
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\refint\OLIDSOLUTON.dll
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.pdb
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\OLIDSOLUTON.genruntimeconfig.cache
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\ref\OLIDSOLUTON.dll
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Disclaimer.razor.rz.scp.css
+D:\OLID_SULOTION\IPT-102\OLID_SOLUTION\WEBAPP\obj\Debug\net6.0\scopedcss\Pages\Disclaimer.razor.rz.scp.css

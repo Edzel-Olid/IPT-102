@@ -26,7 +26,8 @@
 
 <div>
     <button @onclick="NavigateToCalculator" class="index-button-container">Calculator</button>
-    <button @onclick="NavigateToWeather" class="index-button-container">Weather</button>
+    <button @onclick="NavigateToWeather" class="index-button-container">Weather Forecast</button>
+    <button @onclick="NavigateToList" class="index-button-container">List</button>
    </div>
 
 @code {
@@ -39,6 +40,11 @@
     {
         NavigationManager.NavigateTo("/weather");
     }
+    private void NavigateToList()
+    {
+        NavigationManager.NavigateTo("/List");
+    }
+
 
  
     [Inject]

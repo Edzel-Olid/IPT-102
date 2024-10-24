@@ -12,11 +12,9 @@ G:\Repos\repos\olidcompany\obj\Debug\postdeploy.sql
 G:\Repos\repos\olidcompany\obj\Debug\predeploy.sql
 G:\Repos\repos\olidcompany\obj\Debug\olidcompany.dll
 G:\Repos\repos\olidcompany\obj\Debug\olidcompany.pdb
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dacpac
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.sqlproj.AssemblyReference.cache
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\Model.xml
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\refactor.xml
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\postdeploy.sql
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\predeploy.sql
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.dll
-I:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.pdb
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dacpac
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.sqlproj.AssemblyReference.cache
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.dll
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.pdb
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dll
+G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.pdb

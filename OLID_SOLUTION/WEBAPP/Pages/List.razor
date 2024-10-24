@@ -1,0 +1,161 @@
+﻿@page "/List"
+
+<!-- Input Fields -->
+<div>
+    <label for="lastName">Last Name:</label>
+    <input type="text" @bind="lastName" id="lastName" />
+</div>
+
+<div>
+    <label for="firstName">First Name:</label>
+    <input type="text" @bind="firstName" id="firstName" />
+</div>
+
+<div>
+    <label for="MiddleInitial">Middle Initial:</label>
+    <input type="text" @bind="MiddleInitial" id="MiddleInitial" />
+</div>
+<br>
+<button @onclick="DisplayFullName">ENTER</button>
+
+<!-- Display the list of names with IDs -->
+@if (nameEntries?.Count > 0)
+{
+    <div class="name-box">
+        <h4>Student List:</h4>
+        @foreach (var entry in nameEntries)
+        {
+            <div>
+                <p>@entry.FullName <br> School-ID: <strong>@entry.ID</strong></p>
+                <button @onclick="() => StartEdit(entry.ID)">Edit</button>
+                <button @onclick="() => DeleteEntry(entry.ID)">Delete</button>
+            </div>
+        }
+    </div>
+
+    <!-- Edit form, shown when editing a student -->
+    @if (isEditing)
+    {
+        <div class="edit-form">
+            <h4>Edit Student:</h4>
+            <label>First Name: </label>
+            <input type="text" @bind="editFirstName" /><br>
+            <label>Middle Initial: </label>
+            <input type="text" @bind="editMiddleInitial" /><br>
+            <label>Last Name: </label>
+            <input type="text" @bind="editLastName" /><br>
+            <button @onclick="SaveEdit">Save</button>
+            <button @onclick="CancelEdit">Cancel</button>
+        </div>
+    }
+}
+
+@code {
+    private string lastName;
+    private string firstName;
+    private string MiddleInitial;
+    private string selectedId; // Used for the select dropdown
+    private List<NameEntry> nameEntries = new();
+
+    private bool isEditing = false; // Track whether we are in editing mode
+    private string editId; // Store the ID of the student being edited
+    private string editFirstName;
+    private string editMiddleInitial;
+    private string editLastName;
+
+    // Class to store the name and ID
+    public class NameEntry
+    {
+        public string FullName { get; set; }
+        public string ID { get; set; }
+    }
+
+    // On page load, retrieve stored data
+    protected override async Task OnInitializedAsync()
+    {
+        // Retrieve the list of names and IDs from localStorage
+        var storedEntries = await JS.InvokeAsync<string>("localStorage.getItem", "nameEntries");
+
+        if (!string.IsNullOrEmpty(storedEntries))
+        {
+            // Deserialize the stored data back into the list
+            nameEntries = System.Text.Json.JsonSerializer.Deserialize<List<NameEntry>>(storedEntries) ?? new();
+        }
+    }
+
+    private async void DisplayFullName()
+    {
+        // Create a new name entry
+        var fullName = $"{lastName} {firstName} {MiddleInitial}";
+        var id = GenerateRandomId();
+
+        // Add the new entry to the list
+        nameEntries.Add(new NameEntry { FullName = fullName, ID = id });
+
+        // Serialize the list and store it in localStorage
+        var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
+        await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
+    }
+
+    // Method to generate a single random ID in the format "####-####"
+    private string GenerateRandomId()
+    {
+        Random random = new Random();
+        int part1 = random.Next(1000, 9999); // Generate a 4-digit number
+        int part2 = random.Next(1000, 9999); // Generate another 4-digit number
+        return $"{part1}-{part2}";
+    }
+
+    // Method to start editing a student's name
+    private void StartEdit(string id)
+    {
+        // Find the entry by ID
+        var entry = nameEntries.FirstOrDefault(e => e.ID == id);
+        if (entry != null)
+        {
+            editId = id;
+            editFirstName = entry.FullName.Split(' ')[0];
+            editMiddleInitial = entry.FullName.Split(' ')[1];
+            editLastName = entry.FullName.Split(' ')[2];
+            isEditing = true; // Enter edit mode
+        }
+    }
+
+    // Method to save the edited student name
+    private async void SaveEdit()
+    {
+        var entry = nameEntries.FirstOrDefault(e => e.ID == editId);
+        if (entry != null)
+        {
+            entry.FullName = $"{editFirstName} {editMiddleInitial} {editLastName}";
+
+            // Serialize the updated list and store it in localStorage
+            var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
+            await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
+
+            isEditing = false; // Exit edit mode
+        }
+    }
+
+    // Method to cancel the edit
+    private void CancelEdit()
+    {
+        isEditing = false;
+    }
+
+    // Method to delete a specific entry based on the ID
+    private async void DeleteEntry(string id)
+    {
+        var entryToRemove = nameEntries.FirstOrDefault(e => e.ID == id);
+        if (entryToRemove != null)
+        {
+            nameEntries.Remove(entryToRemove);
+
+            // Update localStorage after deleting the entry
+            var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
+            await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
+        }
+    }
+}
+
+@inject IJSRuntime JS

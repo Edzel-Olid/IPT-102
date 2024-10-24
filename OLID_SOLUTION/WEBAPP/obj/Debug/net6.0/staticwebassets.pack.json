@@ -1,63 +1,63 @@
 {
   "Files": [
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OLIDSOLUTON.bundle.scp.css",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OLIDSOLUTON.bundle.scp.css",
       "PackagePath": "staticwebassets\\OLIDSOLUTON.bundle.scp.css"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\Videos\\background.mp4",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\Videos\\background.mp4",
       "PackagePath": "staticwebassets\\css\\Videos\\background.mp4"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\site.css",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\favicon.ico",
+      "Id": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {

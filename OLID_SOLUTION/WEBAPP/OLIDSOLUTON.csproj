@@ -8,15 +8,15 @@
 
   <ItemGroup>
     <None Remove="Pages\Calculator.razor.css" />
-    <None Remove="Pages\Disclaimer.razor.css" />
     <None Remove="Pages\Index.razor.css" />
+    <None Remove="Pages\List.razor.css" />
     <None Remove="Pages\Music.razor.css" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="Pages\Calculator.razor.css" />
-    <Content Include="Pages\Disclaimer.razor.css" />
     <Content Include="Pages\Index.razor.css" />
+    <Content Include="Pages\List.razor.css" />
     <Content Include="Pages\Music.razor.css" />
   </ItemGroup>
 

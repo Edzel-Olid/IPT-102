@@ -1,7 +1,51 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "I:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\olidcompany\\",
-  "Documents": [],
+  "WorkspaceRootPath": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\WORKS_ON.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\WORKS_ON.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\PROJECT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\PROJECT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\DEPENDENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|olidcompany||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPT_LOCATIONS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\DEPT_LOCATIONS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\PROJECT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\PROJECT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\WORKS_ON.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}|olidcompany.sqlproj|solutionrelative:Script\\WORKS_ON.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +53,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DEPARTMENT.sql ",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPARTMENT.sql",
+              "RelativeDocumentMoniker": "Script\\DEPARTMENT.sql",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPARTMENT.sql",
+              "RelativeToolTip": "Script\\DEPARTMENT.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-19T04:30:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DEPT_LOCATIONS.sql",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPT_LOCATIONS.sql",
+              "RelativeDocumentMoniker": "Script\\DEPT_LOCATIONS.sql",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPT_LOCATIONS.sql",
+              "RelativeToolTip": "Script\\DEPT_LOCATIONS.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-19T04:13:51.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EMPLOYEE.sql ",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\EMPLOYEE.sql",
+              "RelativeDocumentMoniker": "Script\\EMPLOYEE.sql",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\EMPLOYEE.sql",
+              "RelativeToolTip": "Script\\EMPLOYEE.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-19T04:13:51.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PROJECT.sql ",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\PROJECT.sql",
+              "RelativeDocumentMoniker": "Script\\PROJECT.sql",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\PROJECT.sql",
+              "RelativeToolTip": "Script\\PROJECT.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-19T04:13:51.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WORKS_ON.sql ",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\WORKS_ON.sql",
+              "RelativeDocumentMoniker": "Script\\WORKS_ON.sql",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\WORKS_ON.sql",
+              "RelativeToolTip": "Script\\WORKS_ON.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-19T04:13:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DEPENDENT.sql",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPENDENT.sql",
+              "RelativeDocumentMoniker": "Script\\DEPENDENT.sql",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\Script\\DEPENDENT.sql",
+              "RelativeToolTip": "Script\\DEPENDENT.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-19T04:13:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "olidcompany",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\olidcompany.sqlproj",
+              "RelativeDocumentMoniker": "olidcompany.sqlproj",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\olidcompany\\olidcompany.sqlproj",
+              "RelativeToolTip": "olidcompany.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T04:28:56.185Z"
             }
           ]
         }

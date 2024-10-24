@@ -57,7 +57,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Table" />
-    <Folder Include="SCRIPT" />
+    <Folder Include="Script" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Table\EMPLOYEE.sql" />
@@ -68,11 +68,11 @@
     <Build Include="Table\DEPARTMENT.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="SCRIPT\DEPARTMENT.sql" />
-    <None Include="SCRIPT\DEPENDENT.sql" />
-    <None Include="SCRIPT\DEPT_LOCATIONS.sql" />
-    <None Include="SCRIPT\EMPLOYEE.sql" />
-    <None Include="SCRIPT\PROJECT.sql" />
-    <None Include="SCRIPT\WORKS_ON.sql" />
+    <None Include="Script\DEPARTMENT.sql" />
+    <None Include="Script\DEPENDENT.sql" />
+    <None Include="Script\DEPT_LOCATIONS.sql" />
+    <None Include="Script\EMPLOYEE.sql" />
+    <None Include="Script\PROJECT.sql" />
+    <None Include="Script\WORKS_ON.sql" />
   </ItemGroup>
 </Project>

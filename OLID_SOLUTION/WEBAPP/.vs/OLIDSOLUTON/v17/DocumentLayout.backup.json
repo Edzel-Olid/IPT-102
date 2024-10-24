@@ -1,128 +1,136 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\",
+  "WorkspaceRootPath": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\list.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\list.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\disclaimer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\disclaimer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\disclaimer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\disclaimer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\disclaimer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\list.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\list.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\disclaimer.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\disclaimer.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\music.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\music.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\music.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\video.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\video.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\video.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\video.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\music.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\music.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\music.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\music.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\music.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\music.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\calculator.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\calculator.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\calculator.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\calculator.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\calculator.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\calculator.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\index.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\index.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\index.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Repos\\dianosolution\\diano\\Pages\\MUSIC.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|d:\\olid_sulotion\\ipt-102\\olid_solution\\webapp\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|i:\\ipt-102\\olid_solution\\webapp\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}|OLIDSOLUTON.csproj|solutionrelative:shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -133,102 +141,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-17T12:17:24.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:30:46.986Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "Pages\\Index.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor",
-              "RelativeToolTip": "Pages\\Index.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T12:13:01.821Z",
+              "Title": "List.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\List.razor.css",
+              "RelativeDocumentMoniker": "Pages\\List.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\List.razor.css",
+              "RelativeToolTip": "Pages\\List.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T13:22:12.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Profile.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Profile.razor",
-              "RelativeDocumentMoniker": "Pages\\Profile.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Profile.razor",
-              "RelativeToolTip": "Pages\\Profile.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T12:13:25.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Music.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor",
-              "RelativeDocumentMoniker": "Pages\\Music.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor",
-              "RelativeToolTip": "Pages\\Music.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T13:04:59.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Disclaimer.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor",
               "RelativeDocumentMoniker": "Pages\\Disclaimer.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor",
               "RelativeToolTip": "Pages\\Disclaimer.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-12T01:57:40.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
-              "RelativeDocumentMoniker": "Pages\\Index.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
-              "RelativeToolTip": "Pages\\Index.razor.css",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-17T12:19:59.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "_Host.cshtml",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Host.cshtml",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Host.cshtml",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Host.cshtml",
               "RelativeToolTip": "Pages\\_Host.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -236,23 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T12:20:56.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Error.cshtml",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Pages\\Error.cshtml",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Error.cshtml",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Error.cshtml",
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -260,47 +199,162 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Disclaimer.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor.css",
-              "RelativeDocumentMoniker": "Pages\\Disclaimer.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor.css",
-              "RelativeToolTip": "Pages\\Disclaimer.razor.css",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-13T12:07:57.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Component.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Component.razor",
-              "RelativeDocumentMoniker": "Pages\\Component.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Component.razor",
-              "RelativeToolTip": "Pages\\Component.razor",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAIwAAABMAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T13:33:44.268Z"
+              "WhenOpened": "2024-09-14T12:20:56.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Disclaimer.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor.css",
-              "RelativeDocumentMoniker": "Pages\\Disclaimer.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Disclaimer.razor.css",
-              "RelativeToolTip": "Pages\\Disclaimer.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-13T12:07:08.702Z"
+              "DocumentIndex": 8,
+              "Title": "Calculator.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor",
+              "RelativeDocumentMoniker": "Pages\\Calculator.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor",
+              "RelativeToolTip": "Pages\\Calculator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:12:13.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Music.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor",
+              "RelativeDocumentMoniker": "Pages\\Music.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor",
+              "RelativeToolTip": "Pages\\Music.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T13:04:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Pages\\Profile.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Profile.razor",
+              "RelativeToolTip": "Pages\\Profile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:13:25.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:30:46.986Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-17T12:17:24.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Component.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "Pages\\Component.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Component.razor",
+              "RelativeToolTip": "Pages\\Component.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAIwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:33:44.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAABkAAAAAMzMzMzMLwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:13:01.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "Pages\\List.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\List.razor",
+              "RelativeToolTip": "Pages\\List.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:19:30.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\List.razor.css",
+              "RelativeDocumentMoniker": "Pages\\List.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\List.razor.css",
+              "RelativeToolTip": "Pages\\List.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T13:21:11.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
+              "RelativeDocumentMoniker": "Pages\\Index.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
+              "RelativeToolTip": "Pages\\Index.razor.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-17T12:19:59.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "Data\\WeatherForecastService.cs",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "Data\\WeatherForecastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:39:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Shared\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -308,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor",
               "RelativeToolTip": "Shared\\MainLayout.razor",
               "ViewState": "AgIAAHMAAAAAAAAAAAAQwJoAAACOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -320,11 +374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Video.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Video.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Video.razor",
               "RelativeDocumentMoniker": "Pages\\Video.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Video.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Video.razor",
               "RelativeToolTip": "Pages\\Video.razor",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -333,22 +387,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Calculator.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor",
-              "RelativeDocumentMoniker": "Pages\\Calculator.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor",
-              "RelativeToolTip": "Pages\\Calculator.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T12:12:13.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Counter.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Pages\\Counter.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Counter.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Counter.razor",
               "RelativeToolTip": "Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -356,11 +398,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeToolTip": "wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -368,11 +410,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "SurveyPrompt.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\SurveyPrompt.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\SurveyPrompt.razor",
               "RelativeDocumentMoniker": "Shared\\SurveyPrompt.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\SurveyPrompt.razor",
               "RelativeToolTip": "Shared\\SurveyPrompt.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -380,11 +422,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Calculator.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
               "RelativeDocumentMoniker": "Pages\\Calculator.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
               "RelativeToolTip": "Pages\\Calculator.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -392,11 +434,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Calculator.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
               "RelativeDocumentMoniker": "Pages\\Calculator.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Calculator.razor.css",
               "RelativeToolTip": "Pages\\Calculator.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -404,11 +446,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Index.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
               "RelativeDocumentMoniker": "Pages\\Index.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Index.razor.css",
               "RelativeToolTip": "Pages\\Index.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -416,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "MUSIC.razor",
               "DocumentMoniker": "G:\\Repos\\dianosolution\\diano\\Pages\\MUSIC.razor",
               "ToolTip": "G:\\Repos\\dianosolution\\diano\\Pages\\MUSIC.razor",
@@ -425,11 +467,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Music.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
               "RelativeDocumentMoniker": "Pages\\Music.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
               "RelativeToolTip": "Pages\\Music.razor.css",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -437,11 +479,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "App.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\App.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\App.razor",
               "RelativeDocumentMoniker": "App.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\App.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\App.razor",
               "RelativeToolTip": "App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -449,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\_Imports.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\_Imports.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\_Imports.razor",
               "RelativeToolTip": "_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -461,11 +503,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Music.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
               "RelativeDocumentMoniker": "Pages\\Music.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Music.razor.css",
               "RelativeToolTip": "Pages\\Music.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -473,11 +515,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Weather.razor",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Weather.razor",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Pages\\Weather.razor",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Weather.razor",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Pages\\Weather.razor",
               "RelativeToolTip": "Pages\\Weather.razor",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -485,11 +527,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Shared\\MainLayout.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\MainLayout.razor.css",
               "RelativeToolTip": "Shared\\MainLayout.razor.css",
               "ViewState": "AgIAAPsBAAAAAAAAAAAWwBECAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -497,11 +539,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor.css",
+              "DocumentMoniker": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Shared\\NavMenu.razor.css",
-              "ToolTip": "D:\\OLID_SULOTION\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor.css",
+              "ToolTip": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\Shared\\NavMenu.razor.css",
               "RelativeToolTip": "Shared\\NavMenu.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

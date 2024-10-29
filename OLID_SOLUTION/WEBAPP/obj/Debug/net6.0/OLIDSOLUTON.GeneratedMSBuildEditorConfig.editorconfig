@@ -9,83 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OLIDSOLUTON
 build_property.RootNamespace = OLIDSOLUTON
-build_property.ProjectDir = I:\IPT-102\OLID_SOLUTION\WEBAPP\
+build_property.ProjectDir = C:\olid\IPT-102\OLID_SOLUTION\WEBAPP\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = I:\IPT-102\OLID_SOLUTION\WEBAPP
+build_property.MSBuildProjectDirectory = C:\olid\IPT-102\OLID_SOLUTION\WEBAPP
 build_property._RazorSourceGeneratorDebug = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/App.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Component.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Component.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Counter.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Disclaimer.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Disclaimer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY2xhaW1lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Profile.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Video.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Video.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Weather.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Shared/SurveyPrompt.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/_Imports.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Calculator.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Calculator.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-pv0ev7eoia
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Index.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-p3vszp0atw
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/List.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/List.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-qbdpaflv2x
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Music.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Music.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1vag60riiq
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Shared/MainLayout.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-x22ywj7wwb
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Shared/NavMenu.razor]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ehvsqyrfay
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Error.cshtml]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/_Host.cshtml]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/IPT-102/OLID_SOLUTION/WEBAPP/Pages/_Layout.cshtml]
+[C:/olid/IPT-102/OLID_SOLUTION/WEBAPP/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

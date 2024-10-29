@@ -1,0 +1,6 @@
+C:\olid\IPT-102\OLID_SOLUTION\storedPro\bin\Debug\storedPro.dacpac
+C:\olid\IPT-102\OLID_SOLUTION\storedPro\bin\Debug\storedPro.dll
+C:\olid\IPT-102\OLID_SOLUTION\storedPro\bin\Debug\storedPro.pdb
+C:\olid\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.sqlproj.AssemblyReference.cache
+C:\olid\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.dll
+C:\olid\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.pdb

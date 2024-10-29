@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OLIDSOLUTON", "OLIDSOLUTON.csproj", "{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "olidcompany", "..\olidcompany\olidcompany.sqlproj", "{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "storedPro", "..\storedPro\storedPro.sqlproj", "{4019A4A8-6679-49F9-B587-064107D8996B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,18 @@ Global
 		{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B48F2C64-6C29-4BB3-9A8A-05FDBC49F7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4019A4A8-6679-49F9-B587-064107D8996B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4019A4A8-6679-49F9-B587-064107D8996B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4019A4A8-6679-49F9-B587-064107D8996B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4019A4A8-6679-49F9-B587-064107D8996B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4019A4A8-6679-49F9-B587-064107D8996B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4019A4A8-6679-49F9-B587-064107D8996B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

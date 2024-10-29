@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Personal Computer\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
+      "projectUniqueName": "C:\\olid\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
       "projectName": "OLIDSOLUTON",
-      "projectPath": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
-      "packagesPath": "C:\\Users\\Personal Computer\\.nuget\\packages\\",
-      "outputPath": "I:\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\",
+      "projectPath": "C:\\olid\\IPT-102\\OLID_SOLUTION\\WEBAPP\\OLIDSOLUTON.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\olid\\IPT-102\\OLID_SOLUTION\\WEBAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Personal Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

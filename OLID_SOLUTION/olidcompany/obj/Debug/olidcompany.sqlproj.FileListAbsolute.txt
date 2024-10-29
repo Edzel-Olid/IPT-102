@@ -18,3 +18,13 @@ G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.dll
 G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.pdb
 G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dll
 G:\OLID_SULOTION\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.pdb
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dacpac
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dll
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.pdb
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.sqlproj.AssemblyReference.cache
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\Model.xml
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\refactor.xml
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\postdeploy.sql
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\predeploy.sql
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.dll
+C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.pdb

@@ -58,6 +58,7 @@
     <Folder Include="Properties" />
     <Folder Include="Table" />
     <Folder Include="Script" />
+    <Folder Include="STORED_PROCEDURE" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Table\EMPLOYEE.sql" />
@@ -66,6 +67,10 @@
     <Build Include="Table\WORKS_ON.sql" />
     <Build Include="Table\DEPENDENT.sql" />
     <Build Include="Table\DEPARTMENT.sql" />
+    <Build Include="STORED_PROCEDURE\EMPLOYEE_CREATE.sql" />
+    <Build Include="STORED_PROCEDURE\EMPLOYEE_READ.sql" />
+    <Build Include="STORED_PROCEDURE\EMPLOYEE_UPDATE.sql" />
+    <Build Include="STORED_PROCEDURE\EMPLOYEE_DELETE.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Script\DEPARTMENT.sql" />

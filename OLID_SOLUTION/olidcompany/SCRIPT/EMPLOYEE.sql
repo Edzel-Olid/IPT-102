@@ -1,20 +1,22 @@
 ﻿INSERT EMPLOYEE (Fname,Minit,Lname,Ssn,Bdate,Address,Sex,Salary,Super_ssn,Dno)
-
 VALUES
+('EDZEL','E','OLID','1','2004-01-04','lagumbingan','M','2003','01','07'),
+('EDZEL','E','OLID','2','2004-01-04','lagumbingan','M','2003','01','07'),
+('EDZEL','E','OLID','3','2004-01-04','lagumbingan','M','2003','01','07'),
+('EDZEL','E','OLID','4','2004-01-04','lagumbingan','M','2003','01','07'),
+('EDZEL','E','OLID','5','2004-01-04','lagumbingan','M','2003','01','07')
+GO
 
-('EZDEL','4','OLID','1','2004-01-04','lagumbingan','M','2003','01','07'),
-('EZDEL','4','OLID','2','2004-01-04','lagumbingan','M','2003','01','07'),
-('EZDEL','4','OLID','3','2004-01-04','lagumbingan','M','2003','01','07'),
-('EZDEL','4','OLID','4','2004-01-04','lagumbingan','M','2003','01','07'),
-('EZDEL','4','OLID','5','2004-01-04','lagumbingan','M','2003','01','07')
 SELECT * FROM EMPLOYEE
---REVERSE
+
+GO
+
 SELECT * FROM EMPLOYEE ORDER BY Ssn DESC;
 
-
+GO
 
 --FOR FOREIGN-KEY
-select EMPLOYEE.*, DEPARTMENT.*
+SELECT EMPLOYEE.*, DEPARTMENT.*
 from EMPLOYEE
 right join DEPARTMENT
 on EMPLOYEE.Ssn = DEPARTMENT.Mgr_ssn
@@ -32,17 +34,26 @@ INNER JOIN DEPARTMENT
 ON EMPLOYEE.Ssn = DEPARTMENT.Mgr_ssn
 
 
+SELECT EMPLOYEE.*, DEPARTMENT.*
+FROM DEPARTMENT
+LEFT JOIN EMPLOYEE 
+ON EMPLOYEE.Ssn = DEPARTMENT.Mgr_ssn
 
-UPDATE EMPLOYEE
-SET Fname = 'EDZEL'
-WHERE Ssn = 1
+SELECT [Fname],[Mgr_start_date]
+FROM DEPARTMENT
+CROSS JOIN EMPLOYEE 
+
+
+--UPDATE EMPLOYEE
+--SET Fname = 'EDZEL'
+--WHERE Ssn = 1
 
 
 --DELETE ALL
-DELETE FROM EMPLOYEE
+--DELETE FROM EMPLOYEE
 
 
 --ONE OR MORE
-DELETE FROM EMPLOYEE
-where Ssn = 2
+--DELETE FROM EMPLOYEE
+--WHERE Ssn = 2
 

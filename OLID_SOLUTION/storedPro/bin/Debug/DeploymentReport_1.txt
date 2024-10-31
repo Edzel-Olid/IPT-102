@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Info]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Info].[middleinitial] is being dropped, data loss could occur.
+       The column [dbo].[Info].[name] is being dropped, data loss could occur.
+
+** User actions
+     Recreate table
+       [dbo].[Info] (Table)
+     Alter
+       [dbo].[Create] (Procedure)
+       [dbo].[delete] (Procedure)
+       [dbo].[read] (Procedure)
+       [dbo].[update] (Procedure)
+
+** Supporting actions
+
+The column [dbo].[Info].[middleinitial] is being dropped, data loss could occur.
+The column [dbo].[Info].[name] is being dropped, data loss could occur.
+

@@ -4,3 +4,13 @@ C:\olid\IPT-102\OLID_SOLUTION\storedPro\bin\Debug\storedPro.pdb
 C:\olid\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.sqlproj.AssemblyReference.cache
 C:\olid\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.dll
 C:\olid\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.pdb
+D:\IPT-102\OLID_SOLUTION\storedPro\bin\Debug\storedPro.dacpac
+D:\IPT-102\OLID_SOLUTION\storedPro\bin\Debug\storedPro.dll
+D:\IPT-102\OLID_SOLUTION\storedPro\bin\Debug\storedPro.pdb
+D:\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.sqlproj.AssemblyReference.cache
+D:\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.dll
+D:\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\storedPro.pdb
+D:\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\Model.xml
+D:\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\refactor.xml
+D:\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\postdeploy.sql
+D:\IPT-102\OLID_SOLUTION\storedPro\obj\Debug\predeploy.sql

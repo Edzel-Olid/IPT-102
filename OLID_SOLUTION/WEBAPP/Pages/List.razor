@@ -1,16 +1,14 @@
 ﻿@page "/List"
-
-<!-- Input Fields -->
 <div>
+    <h4>ENTER INFORMATION</h4>
+    <br><br>
     <label for="lastName">Last Name:</label>
     <input type="text" @bind="lastName" id="lastName" />
 </div>
-
 <div>
     <label for="firstName">First Name:</label>
     <input type="text" @bind="firstName" id="firstName" />
 </div>
-
 <div>
     <label for="MiddleInitial">Middle Initial:</label>
     <input type="text" @bind="MiddleInitial" id="MiddleInitial" />
@@ -18,132 +16,150 @@
 <br>
 <button @onclick="DisplayFullName">ENTER</button>
 
-<!-- Display the list of names with IDs -->
+
 @if (nameEntries?.Count > 0)
 {
     <div class="name-box">
-        <h4>Student List:</h4>
-        @foreach (var entry in nameEntries)
-        {
-            <div>
-                <p>@entry.FullName <br> School-ID: <strong>@entry.ID</strong></p>
-                <button @onclick="() => StartEdit(entry.ID)">Edit</button>
-                <button @onclick="() => DeleteEntry(entry.ID)">Delete</button>
-            </div>
-        }
+        <h4>SENIOR CITIZENS AFFAIRS LIST</h4>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Last Name</th>
+                    <th>First Name</th>
+                    <th>Middle Initial</th>
+                    <th>OSCA No.</th>
+                    <th>Edit</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var entry in nameEntries)
+                {
+                    var nameParts = entry.FullName.Split(' ');
+                    <tr>
+                        <td>@nameParts[0]</td>
+                        <td>@nameParts[1]</td>
+                        <td>@nameParts[2]</td>
+                        <td>@entry.ID</td>
+                        <td>
+                            <button @onclick="() => StartEdit(entry.ID)">Edit</button>
+
+                           <button @onclick="() => DeleteEntry(entry.ID)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
     </div>
 
-    <!-- Edit form, shown when editing a student -->
     @if (isEditing)
     {
         <div class="edit-form">
-            <h4>Edit Student:</h4>
+            <h4>Edit Form </h4>
+           <label>Last Name: </label>
+            <input type="text" @bind="editLastName" /><br>
             <label>First Name: </label>
             <input type="text" @bind="editFirstName" /><br>
             <label>Middle Initial: </label>
             <input type="text" @bind="editMiddleInitial" /><br>
-            <label>Last Name: </label>
-            <input type="text" @bind="editLastName" /><br>
             <button @onclick="SaveEdit">Save</button>
             <button @onclick="CancelEdit">Cancel</button>
         </div>
     }
 }
-
 @code {
     private string lastName;
     private string firstName;
     private string MiddleInitial;
-    private string selectedId; // Used for the select dropdown
+    private string selectedId; 
     private List<NameEntry> nameEntries = new();
 
-    private bool isEditing = false; // Track whether we are in editing mode
-    private string editId; // Store the ID of the student being edited
+    private bool isEditing = false; 
+    private string editId; 
+    private string editLastName;
     private string editFirstName;
     private string editMiddleInitial;
-    private string editLastName;
 
-    // Class to store the name and ID
+
+  
     public class NameEntry
     {
         public string FullName { get; set; }
         public string ID { get; set; }
     }
 
-    // On page load, retrieve stored data
+    
     protected override async Task OnInitializedAsync()
     {
-        // Retrieve the list of names and IDs from localStorage
+        
         var storedEntries = await JS.InvokeAsync<string>("localStorage.getItem", "nameEntries");
 
         if (!string.IsNullOrEmpty(storedEntries))
         {
-            // Deserialize the stored data back into the list
+            
             nameEntries = System.Text.Json.JsonSerializer.Deserialize<List<NameEntry>>(storedEntries) ?? new();
         }
     }
 
     private async void DisplayFullName()
     {
-        // Create a new name entry
+        
         var fullName = $"{lastName} {firstName} {MiddleInitial}";
         var id = GenerateRandomId();
 
-        // Add the new entry to the list
+        
         nameEntries.Add(new NameEntry { FullName = fullName, ID = id });
 
-        // Serialize the list and store it in localStorage
+        
         var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
         await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
     }
 
-    // Method to generate a single random ID in the format "####-####"
+    
     private string GenerateRandomId()
     {
         Random random = new Random();
-        int part1 = random.Next(1000, 9999); // Generate a 4-digit number
-        int part2 = random.Next(1000, 9999); // Generate another 4-digit number
-        return $"{part1}-{part2}";
+        int part1 = random.Next(10000, 99999); 
+        return $"{part1}";
     }
 
-    // Method to start editing a student's name
+    
     private void StartEdit(string id)
     {
-        // Find the entry by ID
+       
         var entry = nameEntries.FirstOrDefault(e => e.ID == id);
         if (entry != null)
         {
             editId = id;
+            editLastName = entry.FullName.Split(' ')[2];
             editFirstName = entry.FullName.Split(' ')[0];
             editMiddleInitial = entry.FullName.Split(' ')[1];
-            editLastName = entry.FullName.Split(' ')[2];
-            isEditing = true; // Enter edit mode
+            isEditing = true;
         }
     }
 
-    // Method to save the edited student name
+   
     private async void SaveEdit()
     {
         var entry = nameEntries.FirstOrDefault(e => e.ID == editId);
         if (entry != null)
         {
-            entry.FullName = $"{editFirstName} {editMiddleInitial} {editLastName}";
+            entry.FullName = $"{editLastName} {editFirstName} {editMiddleInitial}";
 
-            // Serialize the updated list and store it in localStorage
             var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
             await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
 
-            isEditing = false; // Exit edit mode
+            isEditing = false; 
         }
     }
 
-    // Method to cancel the edit
+   
     private void CancelEdit()
     {
         isEditing = false;
     }
 
-    // Method to delete a specific entry based on the ID
+   
     private async void DeleteEntry(string id)
     {
         var entryToRemove = nameEntries.FirstOrDefault(e => e.ID == id);
@@ -151,7 +167,7 @@
         {
             nameEntries.Remove(entryToRemove);
 
-            // Update localStorage after deleting the entry
+            
             var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
             await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
         }
@@ -159,3 +175,37 @@
 }
 
 @inject IJSRuntime JS
+
+<style>
+    .name-box {
+        margin-top: 20px;
+
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: white;
+    }
+
+    .table th,
+    .table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: center;
+         
+    }
+
+    .table th {
+            background-color: white;
+    }
+
+    .edit-form {
+        margin-top: 20px;
+        border: 1px solid #ddd;
+        padding: 10px;
+    }
+</style>
+
+
+

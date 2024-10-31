@@ -28,3 +28,9 @@ C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\postdeploy.sql
 C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\predeploy.sql
 C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.dll
 C:\olid\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.pdb
+D:\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dacpac
+D:\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.dll
+D:\IPT-102\OLID_SOLUTION\olidcompany\bin\Debug\olidcompany.pdb
+D:\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.sqlproj.AssemblyReference.cache
+D:\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.dll
+D:\IPT-102\OLID_SOLUTION\olidcompany\obj\Debug\olidcompany.pdb

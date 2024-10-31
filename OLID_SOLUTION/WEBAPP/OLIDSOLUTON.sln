@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OLIDSOLUTON", "OLIDSOLUTON.
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "olidcompany", "..\olidcompany\olidcompany.sqlproj", "{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "storedPro", "..\storedPro\storedPro.sqlproj", "{4019A4A8-6679-49F9-B587-064107D8996B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webLibrary1", "..\webLibrary1\webLibrary1.csproj", "{093ECA7F-E6E6-4FCA-AE29-765B6DE6100C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,12 +25,10 @@ Global
 		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F226BC72-D186-4DF5-8EAB-FCD70175B9C1}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{4019A4A8-6679-49F9-B587-064107D8996B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4019A4A8-6679-49F9-B587-064107D8996B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4019A4A8-6679-49F9-B587-064107D8996B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{4019A4A8-6679-49F9-B587-064107D8996B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4019A4A8-6679-49F9-B587-064107D8996B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4019A4A8-6679-49F9-B587-064107D8996B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{093ECA7F-E6E6-4FCA-AE29-765B6DE6100C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093ECA7F-E6E6-4FCA-AE29-765B6DE6100C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093ECA7F-E6E6-4FCA-AE29-765B6DE6100C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093ECA7F-E6E6-4FCA-AE29-765B6DE6100C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

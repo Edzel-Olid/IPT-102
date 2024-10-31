@@ -1,13 +1,13 @@
 ﻿
-.name-box {
-    background-color: #2e2e2e;
+name-box {
+    background-color: white;
     color: #fff;
     padding: 20px;
     border-radius: 10px;
     margin-top: 10px;
     width: fit-content;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: -3px 2px 0px 0px #000;
 }
 
 
@@ -19,7 +19,7 @@
     .sorting-buttons button {
         margin-right: 10px;
         padding: 12px 25px;
-        background-color: #6c757d;
+        background-color: white;
         border: 1px solid #555;
         border-radius: 6px;
         cursor: pointer;

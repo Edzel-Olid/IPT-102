@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "OLIDSOLUTON/1.0.0": {
+        "dependencies": {
+          "webLibrary1": "1.0.0"
+        },
         "runtime": {
           "OLIDSOLUTON.dll": {}
+        }
+      },
+      "webLibrary1/1.0.0": {
+        "runtime": {
+          "webLibrary1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "OLIDSOLUTON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "webLibrary1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

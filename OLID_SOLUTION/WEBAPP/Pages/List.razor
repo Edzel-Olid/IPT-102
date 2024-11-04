@@ -1,4 +1,5 @@
 ﻿@page "/List"
+
 <div>
     <h4>ENTER INFORMATION</h4>
     <br><br>
@@ -16,12 +17,10 @@
 <br>
 <button @onclick="DisplayFullName">ENTER</button>
 
-
 @if (nameEntries?.Count > 0)
 {
     <div class="name-box">
         <h4>SENIOR CITIZENS AFFAIRS LIST</h4>
-
         <table class="table">
             <thead>
                 <tr>
@@ -43,8 +42,7 @@
                         <td>@entry.ID</td>
                         <td>
                             <button @onclick="() => StartEdit(entry.ID)">Edit</button>
-
-                           <button @onclick="() => DeleteEntry(entry.ID)">Delete</button>
+                            <button @onclick="() => DeleteEntry(entry.ID)">Delete</button>
                         </td>
                     </tr>
                 }
@@ -55,8 +53,8 @@
     @if (isEditing)
     {
         <div class="edit-form">
-            <h4>Edit Form </h4>
-           <label>Last Name: </label>
+            <h4>Edit Form</h4>
+            <label>Last Name: </label>
             <input type="text" @bind="editLastName" /><br>
             <label>First Name: </label>
             <input type="text" @bind="editFirstName" /><br>
@@ -67,107 +65,82 @@
         </div>
     }
 }
+
 @code {
     private string lastName;
     private string firstName;
     private string MiddleInitial;
-    private string selectedId; 
-    private List<NameEntry> nameEntries = new();
+    private string selectedId;
+    private List<SeniorCitizenLibrary.NameEntry> nameEntries = new();
+    private bool isEditing = false;
 
-    private bool isEditing = false; 
-    private string editId; 
+    private string editId;
     private string editLastName;
     private string editFirstName;
     private string editMiddleInitial;
 
-
-  
-    public class NameEntry
-    {
-        public string FullName { get; set; }
-        public string ID { get; set; }
-    }
-
-    
     protected override async Task OnInitializedAsync()
     {
-        
         var storedEntries = await JS.InvokeAsync<string>("localStorage.getItem", "nameEntries");
-
         if (!string.IsNullOrEmpty(storedEntries))
         {
-            
-            nameEntries = System.Text.Json.JsonSerializer.Deserialize<List<NameEntry>>(storedEntries) ?? new();
+            nameEntries = System.Text.Json.JsonSerializer.Deserialize<List<SeniorCitizenLibrary.NameEntry>>(storedEntries) ?? new();
         }
     }
 
     private async void DisplayFullName()
     {
-        
         var fullName = $"{lastName} {firstName} {MiddleInitial}";
         var id = GenerateRandomId();
-
-        
-        nameEntries.Add(new NameEntry { FullName = fullName, ID = id });
-
-        
+        nameEntries.Add(new SeniorCitizenLibrary.NameEntry { FullName = fullName, ID = id });
         var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
         await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
     }
 
-    
     private string GenerateRandomId()
     {
         Random random = new Random();
-        int part1 = random.Next(10000, 99999); 
+        int part1 = random.Next(10000, 99999);
         return $"{part1}";
     }
 
-    
     private void StartEdit(string id)
     {
-       
         var entry = nameEntries.FirstOrDefault(e => e.ID == id);
         if (entry != null)
         {
             editId = id;
-            editLastName = entry.FullName.Split(' ')[2];
-            editFirstName = entry.FullName.Split(' ')[0];
-            editMiddleInitial = entry.FullName.Split(' ')[1];
+            var nameParts = entry.FullName.Split(' ');
+            editLastName = nameParts[0];
+            editFirstName = nameParts[1];
+            editMiddleInitial = nameParts[2];
             isEditing = true;
         }
     }
 
-   
     private async void SaveEdit()
     {
         var entry = nameEntries.FirstOrDefault(e => e.ID == editId);
         if (entry != null)
         {
             entry.FullName = $"{editLastName} {editFirstName} {editMiddleInitial}";
-
             var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
             await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
-
-            isEditing = false; 
+            isEditing = false;
         }
     }
 
-   
     private void CancelEdit()
     {
         isEditing = false;
     }
 
-   
     private async void DeleteEntry(string id)
     {
         var entryToRemove = nameEntries.FirstOrDefault(e => e.ID == id);
         if (entryToRemove != null)
         {
             nameEntries.Remove(entryToRemove);
-
-            
             var serializedEntries = System.Text.Json.JsonSerializer.Serialize(nameEntries);
             await JS.InvokeVoidAsync("localStorage.setItem", "nameEntries", serializedEntries);
         }
@@ -179,7 +152,6 @@
 <style>
     .name-box {
         margin-top: 20px;
-
     }
 
     .table {
@@ -188,17 +160,16 @@
         background-color: white;
     }
 
-    .table th,
-    .table td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: center;
-         
-    }
+        .table th,
+        .table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
 
-    .table th {
+        .table th {
             background-color: white;
-    }
+        }
 
     .edit-form {
         margin-top: 20px;
@@ -206,6 +177,4 @@
         padding: 10px;
     }
 </style>
-
-
 
